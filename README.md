@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 This project analyzes trends in chronic disease indicators in the United States and develops a neural network model to predict disease risk levels.  
-It is part of the **Human-Centered Artificial Intelligence** course project by **Elham Salehi**, under the supervision of **Dr. Fatme Hachem**.
 
 The dataset comes from the **CDC U.S. Chronic Disease Indicators (CDI)**, which includes 115 health indicators across all U.S. states and territories.
 
